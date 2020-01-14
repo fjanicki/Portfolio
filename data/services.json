@@ -1,0 +1,10 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "mobile",
+			"title" : "Android Development",
+			"description" : "5+ years of professional Android development. Multiple projects shipped."
+		}
+	]
+}

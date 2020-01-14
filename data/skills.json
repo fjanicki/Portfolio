@@ -1,0 +1,11 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Android" : "95",
+		"Embedded Linux" : "85",
+		"C++" : "80",
+		"Kotlin" : "90",
+		"Java" : "75",
+		"C#" : "75"
+		}
+}

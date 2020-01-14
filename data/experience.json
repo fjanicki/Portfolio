@@ -1,0 +1,16 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Apr 2016 - Jan 2017",
+			"company" : "Samsao",
+			"website": "https://www.samsao.co/",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		},
+		{
+			"timeperiod" : "Jan 2017 - Present",
+			"company" : "Openfleet",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		}
+	]
+}
